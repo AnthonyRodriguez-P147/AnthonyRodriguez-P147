@@ -1,6 +1,6 @@
 
 
-<h1>Hello, I'm Anthony, an <a href="https://www.linkedin.com/in/anthony-rodr%C3%ADguez-pacheco-104728339/">Entry-Level IT Support </a>☺</h1>
+<h1>Hello, I'm Anthony, an <a href="https://www.linkedin.com/in/anthony-rodr%C3%ADguez-pacheco-104728339/"> IT </a>☺</h1>
 
 **`CSIS Student`** 
  <h3>👨🏽‍💻 Anthony's Coding Journey</h3>
