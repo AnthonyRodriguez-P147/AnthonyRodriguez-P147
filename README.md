@@ -36,5 +36,9 @@
 <--
 <details>
  <summary><h3>👨‍💻 Anthony's Coding Journey</h3></summary>
-I've always found computer hardware and systems facinating since I was in my early teens. I started working with computers at the age of 13 when I built my first gaming computer desktop. 
+I've had a passion for computers since my early teens, and I built my first computer at the age of 13. Since then, my curiosity has only grown, and I've been dedicated to gaining a deeper understanding of how computers work.
+
+I'm currently in college studying Python, and I'm working towards obtaining my CourseCareer's IT certification. My goal is to secure an entry-level IT position to further develop my skills and gain practical experience. After graduation, I plan to pursue the CompTIA Security+ certification to expand my expertise in cybersecurity.
+
+Ultimately, my aim is to work in cybersecurity, helping to prevent malicious attacks and safeguard valuable data.
  -->
