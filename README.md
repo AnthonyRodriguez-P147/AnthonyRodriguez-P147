@@ -18,9 +18,9 @@ Certification in Information Technology
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 ---
 
-### <h2> Python Projexts/h2> <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> #
+### <h2> Python Projexts/h2> <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> ##
   
-  -
+  - [Python: Game](https://github.com/AnthonyRodriguez-P147/Game.git)
   -
   -
   
