@@ -12,7 +12,7 @@ Ultimately, my aim is to work in cybersecurity, helping to prevent malicious att
  
 ---
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨🏽‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/AnthonyRodriguez-P147/OsTicket-Prereq)
