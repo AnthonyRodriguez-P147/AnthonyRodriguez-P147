@@ -5,10 +5,6 @@
 **`CSIS Student`**
 
 
-Majoring In Computer Seicnece 
-Certification in Information Technology
-
-  <h2>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -19,9 +15,7 @@ Certification in Information Technology
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 ---
-
-### <h2> Python Projexts/h2> <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> ##
-  
+ ### <h2>Python Projects<h2>
   - [Python: Game](https://github.com/AnthonyRodriguez-P147/Game.git)
   -
   -
@@ -38,3 +32,9 @@ Certification in Information Technology
 - 👯 I’m looking to collaborate on Ideas
 -
 -->
+#
+<--
+<details>
+ <summary><h3>👨‍💻 Anthony's Coding Journey</h3></summary>
+I've always found computer hardware and systems facinating since I was in my early teens. I started working with computers at the age of 13 when I built my first gaming computer desktop. 
+ -->
