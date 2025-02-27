@@ -31,7 +31,7 @@ Certification in Information Technology
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh<!--
+[linkedin]: "https://www.linkedin.com/in/anthony-rodr%C3%ADguez-pacheco-104728339/"
 **AnthonyRodriguez-P147/AnthonyRodriguez-P147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
