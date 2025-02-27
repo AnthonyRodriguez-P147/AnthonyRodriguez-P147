@@ -17,7 +17,7 @@ Ultimately, my aim is to work in cybersecurity, helping to prevent malicious att
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/AnthonyRodriguez-P147/OsTicket-Prereq)
   - [osTicket: Post-Installation Configuration](https://github.com/AnthonyRodriguez-P147/osTicket-Post-Installation.git)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/AnthonyRodriguez-P147/osTicket-Ticket-examples)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
