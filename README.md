@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<h1>Hi, I'm Anthony, an <a href="https://linkedin.com/in/Josh">Entry-Level IT Support </a>☺</h1>
+
+<h1>Hello, I'm Anthony, an <a https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit >Entry-Level IT Support </a>☺</h1>
 Fulltime student at Monterey Peninsula College 
 <p1>
 Majoring In Computer Seicnece 
