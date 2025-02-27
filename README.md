@@ -1,7 +1,7 @@
 
 
-<h1>Hello, I'm Anthony, an < https://www.linkedin.com/in/anthony-rodr%C3%ADguez-pacheco-104728339/ >Entry-Level IT Support </a>☺</h1>
-Fulltime student at Monterey Peninsula College 
+<h1>Hello, I'm Anthony, an <a href="https://www.linkedin.com/in/anthony-rodr%C3%ADguez-pacheco-104728339/">Entry-Level IT Support </a>☺</h1>
+
 <p1>
 Majoring In Computer Seicnece 
 Certification in Information Technology
