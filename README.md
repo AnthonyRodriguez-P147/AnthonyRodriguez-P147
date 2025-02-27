@@ -2,7 +2,7 @@
 
 <h1>Hello, I'm Anthony, an <a href="https://www.linkedin.com/in/anthony-rodr%C3%ADguez-pacheco-104728339/">Entry-Level IT Support </a>☺</h1>
 
-**`CSIS Student`** #
+**`CSIS Student`** 
  <h3>👨‍💻 Anthony's Coding Journey</h3>
 I've had a passion for computers since my early teens, and I built my first computer at the age of 13. Since then, my curiosity has only grown, and I've been dedicated to gaining a deeper understanding of how computers work.
 
