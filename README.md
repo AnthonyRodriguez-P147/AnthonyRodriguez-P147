@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 <h1>Hi, I'm Anthony, an <a href="https://linkedin.com/in/Josh">Entry-Level IT Support </a>☺</h1>
-
+Fulltime student at Monterey Peninsula College 
+<h1>
+Majoring In Computer Seicnece 
+Certification in Information Technology
+  <h2>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
