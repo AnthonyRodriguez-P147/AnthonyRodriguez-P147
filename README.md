@@ -6,20 +6,60 @@
  <h3>👨🏽‍💻 Anthony's Tech Journey</h3>
 I've had a passion for computers since my early teens, and I built my first computer at the age of 13. Since then, my curiosity has only grown, and I've been dedicated to gaining a deeper understanding of how computers work.
 
-I'm currently in college studying Python, and going to be studying Java, Csisco and networks during the summer and fall of 2025. I'm also working towards obtaining my CourseCareer's IT certification. My goal is to secure an entry-level IT position to further develop my skills and gain practical experience. After graduation, I plan to pursue the CompTIA Security+ certification to expand my expertise in cybersecurity.
+I'm passionate about information technology, troubleshooting, and building practical IT solutions. Through hands-on home labs and independent projects, I've developed experience working with Active Directory, Microsoft Azure, networking fundamentals, help desk systems, and computer hardware.
 
-Ultimately, my aim is to work in cybersecurity, helping to prevent malicious attacks and safeguard valuable data.
- 
+I'm currently focused on starting my career in IT Support, where I can apply my technical knowledge, continue learning, and provide excellent support to end users.
+
 ---
-
+<h2>🖥️ Technical Skills</h2>
+- Windows 10/11
+- Windows Server
+- Active Directory
+- Microsoft Azure
+- Azure Virtual Machines
+- Help Desk (osTicket)
+- TCP/IP Networking
+- DNS
+- DHCP
+- Network Security Groups
+- Cisco IOS
+- Wireshark
+- PowerShell (Basic)
+- Hardware Troubleshooting
+- PC Building
+---
 <h2>👨🏽‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>🛠️ Help Desk Ticketing System (osTicket)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/AnthonyRodriguez-P147/OsTicket-Prereq)
+Skills:
+- Ticket Management
+- User Support
+- Windows Administration
+- Troubleshooting
+- Documentation
 
-- <b>Microsoft Azure</b>
-  
+- <b>☁️Microsoft Azure Active Directory Administration Lab</b>
+-  Built an Active Directory environment using Windows Server hosted in Microsoft Azure.
+
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AnthonyRodriguez-P147/azure-network-protocols)
+  - Skills:
+- User Administration
+- Security Groups
+- File Permissions
+- Authentication
+- Windows Server
+
+-  <b>💻 Computer Hardware Projects</b>
+
+Built, upgraded, and repaired desktop computers while diagnosing hardware and software issues.
+
+Skills:
+- PC Assembly
+- Windows Installation
+- Driver Installation
+- Hardware Diagnostics
+- Performance Upgrades
 ---
  ### <h2>Python Projects<h2>
   - [Python: Game](https://github.com/AnthonyRodriguez-P147/Game.git)
@@ -33,10 +73,20 @@ Ultimately, my aim is to work in cybersecurity, helping to prevent malicious att
 #
 
 ---
-- 🔭 I’m currently working on Python, Java and CompTIA Security+ 
-- 🌱 I’m currently learning Python, Java and IT
-- 👯 I’m looking to collaborate on Ideas
--
+📚 Currently Learning
+
+- CompTIA Network+
+- Windows Administration
+- Microsoft Azure
+- Active Directory
+- Networking Troubleshooting
+---
+- CompTIA Network+
+- Windows Administration
+- Microsoft Azure
+- Active Directory
+- Networking Troubleshooting
+
 -->
 #
 <!--
