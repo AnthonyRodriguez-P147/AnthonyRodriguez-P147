@@ -1,9 +1,10 @@
 
 
-<h1>Hello, I'm Anthony, an <a href="https://www.linkedin.com/in/anthony-rodr%C3%ADguez-pacheco-104728339/"> Entry Level IT Technician </a>☺</h1>
+<h1>Hello, I'm Anthony Rodriguez-Pacheco
+, an <a href="https://www.linkedin.com/in/anthony-rodr%C3%ADguez-pacheco-104728339/"> Entry Level IT Support Technician </a>☺</h1>
 
-**`CSIS Student`** 
- <h3>👨🏽‍💻 Anthony's Tech Journey</h3>
+**``** 
+ <h3>👨🏽‍💻 About Me</h3>
 I've had a passion for computers since my early teens, and I built my first computer at the age of 13. Since then, my curiosity has only grown, and I've been dedicated to gaining a deeper understanding of how computers work.
 
 I'm passionate about information technology, troubleshooting, and building practical IT solutions. Through hands-on home labs and independent projects, I've developed experience working with Active Directory, Microsoft Azure, networking fundamentals, help desk systems, and computer hardware.
@@ -12,21 +13,25 @@ I'm currently focused on starting my career in IT Support, where I can apply my 
 
 ---
 <h2>🖥️ Technical Skills</h2>
+<h2>Operating Systems</h2>
 - Windows 10/11
 - Windows Server
+<h2>Cloud</h2>
 - Active Directory
 - Microsoft Azure
 - Azure Virtual Machines
+<h2>IT Support</h2>
 - Help Desk (osTicket)
+- Hardware Troubleshooting
+- PC Building
+<h2>Networking</h2>
 - TCP/IP Networking
 - DNS
 - DHCP
 - Network Security Groups
 - Cisco IOS
 - Wireshark
-- PowerShell (Basic)
-- Hardware Troubleshooting
-- PC Building
+
 ---
 <h2>👨🏽‍💻 Information Technology Projects:</h2>
 
@@ -60,17 +65,9 @@ Skills:
 - Driver Installation
 - Hardware Diagnostics
 - Performance Upgrades
----
- ### <h2>Python Projects<h2>
-  - [Python: Game](https://github.com/AnthonyRodriguez-P147/Game.git)
-  -
-  -
-  
-### 🧰 Languages and Tools
-<img align="left" alt="Azure" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />           
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
 
-#
+  
+
 
 ---
 📚 Currently Learning
@@ -80,12 +77,11 @@ Skills:
 - Microsoft Azure
 - Active Directory
 - Networking Troubleshooting
+
 ---
-- CompTIA Network+
-- Windows Administration
-- Microsoft Azure
-- Active Directory
-- Networking Troubleshooting
+### 🧰 Languages and Tools
+<img align="left" alt="Azure" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />           
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
 
 -->
 #
